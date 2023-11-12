@@ -1,0 +1,34 @@
+{
+    "cipok": [
+        {
+            "nev": "Nike SB Dunk Mummy",
+            "ara": "465",
+            "raktaron": true,
+            "id": 1
+        },
+        {
+            "nev": "New Balance 550 White Grey",
+            "ara": "90",
+            "raktaron": true,
+            "id": 2
+        },
+        {
+            "nev": "Balenciaga Track Black Glow-In-The-Dark",
+            "ara": "617",
+            "raktaron": false,
+            "id": 3
+        },
+        {
+            "nev": "adidas Yeezy Boost 700 Utility Black",
+            "ara": "259",
+            "raktaron": true,
+            "id": 4
+        },
+        {
+            "nev": "adidas Yeezy Boost 350 V2 Yeezreel",
+            "ara": "210",
+            "raktaron": true,
+            "id": 5
+        }
+    ]
+}
